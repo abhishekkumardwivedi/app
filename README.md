@@ -152,5 +152,11 @@ sudo flatpak --user install local-repo com.testapp.App
 flatpak run com.testapp.App
 `
 
+## Understanding a bit more
+In flatpak each of the application are sandboxed.
+
+runtime -> /usr
+app -> /app
+
 # Reference
 https://blogs.gnome.org/alexl/
