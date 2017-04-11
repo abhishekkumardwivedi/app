@@ -160,3 +160,4 @@ app -> /app
 
 # Reference
 https://blogs.gnome.org/alexl/
+https://blogs.gnome.org/mclasen/2017/01/20/debugging-a-flatpak-application/
