@@ -172,3 +172,7 @@ https://blogs.gnome.org/alexl/2016/10/25/new-flatpak-command-line/
 * Extension
 https://github.com/flatpak/flatpak-docs/issues/18
 https://github.com/flatpak/flatpak/issues/72
+
+* Playing around with eclipse for yocto dev
+http://www.yoctoproject.org/docs/1.8/dev-manual/dev-manual.html#application-development-workflow
+http://www.yoctoproject.org/docs/1.8/dev-manual/dev-manual.html
