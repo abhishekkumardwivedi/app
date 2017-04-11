@@ -138,10 +138,19 @@ command=java hello
 `
 
 ## Export applcation to repo
+`
 flatpak build-export repo appdir stable
-sudo flatpak remote-add --no-gpg-verify example
+`
+Here stable is optional. If don't provide any it will be exported as master. By this we have completed the application development and is ready to be installed and tested.
 
+## Let's install application and test
+Installing locally built application is same as remote application. We need to add remote and then install. And finally execute applcation and test the output.
 
 `
+sudo flatpak --user remote-add --no-gpg-verify local-repo repo
+sudo flatpak --user install local-repo com.testapp.App
+flatpak run com.testapp.App
+`
+
 # Reference
 https://blogs.gnome.org/alexl/
