@@ -159,5 +159,16 @@ runtime -> /usr
 app -> /app
 
 # Reference
+* Sample app
 https://blogs.gnome.org/alexl/
+* Debugging
 https://blogs.gnome.org/mclasen/2017/01/20/debugging-a-flatpak-application/
+* Building
+https://media.readthedocs.org/pdf/flatpak/latest/flatpak.pdf
+* Java
+https://github.com/flatpak/flatpak.github.io/blob/81bb006fd96b9a13170bd876316eb5a4eb48244b/source/bundling-a-java-app.html.haml.markdown
+* Command line
+https://blogs.gnome.org/alexl/2016/10/25/new-flatpak-command-line/
+* Extension
+https://github.com/flatpak/flatpak-docs/issues/18
+https://github.com/flatpak/flatpak/issues/72
