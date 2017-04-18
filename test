@@ -1,9 +1,13 @@
 # Test
 ## pulseaudio
-  https://freedesktop.org/software/pulseaudio/doxygen/pacat-simple_8c-example.html
-  https://freedesktop.org/software/pulseaudio/doxygen/parec-simple_8c-example.html
+https://freedesktop.org/software/pulseaudio/doxygen/pacat-simple_8c-example.html
+https://freedesktop.org/software/pulseaudio/doxygen/parec-simple_8c-example.html
   
-  https://books.google.co.in/books?id=7LcHDgAAQBAJ&pg=PA73&lpg=PA73&dq=parec-simple.c&source=bl&ots=G4UAGO9KeY&sig=PVz0qbdpI05ZsqRDdb_Cy01qqBI&hl=en&sa=X&ved=0ahUKEwiV3N2Ww63TAhULlZQKHSHFCBEQ6AEIRTAG#v=onepage&q=parec-simple.c&f=false
+https://books.google.co.in/books?id=7LcHDgAAQBAJ&pg=PA73&lpg=PA73&dq=parec-simple.c&source=bl&ots=G4UAGO9KeY&sig=PVz0qbdpI05ZsqRDdb_Cy01qqBI&hl=en&sa=X&ved=0ahUKEwiV3N2Ww63TAhULlZQKHSHFCBEQ6AEIRTAG#v=onepage&q=parec-simple.c&f=false
+  
+flatpak run --command=sh --socket=pulseaudio --filesystem=host app.name
+sh-4.3$pacmd
+sh-4.3$pacat
   
 ## socket
 ## ipc
