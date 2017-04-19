@@ -11,3 +11,6 @@ sh-4.3$pacat
   
 ## socket
 ## ipc
+
+##shared memory
+http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/shm/example-2.html
