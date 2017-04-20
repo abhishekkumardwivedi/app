@@ -176,3 +176,6 @@ https://github.com/flatpak/flatpak/issues/72
 * Playing around with eclipse for yocto dev
 http://www.yoctoproject.org/docs/1.8/dev-manual/dev-manual.html#application-development-workflow
 http://www.yoctoproject.org/docs/1.8/dev-manual/dev-manual.html
+
+* Documents
+http://flatpak.readthedocs.io/en/latest/
